@@ -18,7 +18,7 @@
 
 ## Get in Touch
 
-📫 Feel free to reach out to me through [email](mailto:akbarshoh.ilhomovich@example.com) or [LinkedIn](https://www.linkedin.com/in/akbarshoh-ilhomovich).
+📫 Feel free to reach out to me through [email](mailto:bloghack9@gmail.com) or [LinkedIn](https://www.linkedin.com/in/akbarshoh-ilhomovich).
 
 ## Fun Fact
 
