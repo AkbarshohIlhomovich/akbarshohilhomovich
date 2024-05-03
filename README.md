@@ -1,46 +1,30 @@
-<!-- Header -->
-# Hi there, I'm Akbarshoh Ilhomovich! 👋
+# Salom, Men Akbarshoh Ilhomovichman! 👋
 
-<!-- Profile Image -->
-![Akbarshoh Ilhomovich](https://th.bing.com/th/id/OIG1.xcA8sfagVZoq8_khdrXu?w=173&h=173&c=6&r=0&o=5&pid=ImgGn)
+## Menga Munosabat
 
-## About Me
+<!-- Profil Rasmi -->
+<img src="https://th.bing.com/th/id/OIG1.xcA8sfagVZoq8_khdrXu?w=173&h=173&c=6&r=0&o=5&pid=ImgGn" alt="Akbarshoh Ilhomovich" width="200">
 
-<!-- Coding Image -->
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" align="right">
+👨‍💻 RealSoft kompaniyasida to'liq stap dizaynerman, Node.js va Reactda mutaxassisman.
+🎓 18 yoshim bor va texnologiya sohasida o'zimni rivojlantirishga qiziqaman.
 
-👨‍💻 I'm a passionate full stack developer at RealSoft, specializing in Node.js and React.
-🎓 I'm 18 years old and eager to learn and grow in the tech industry.
-
-## Skills
-
-<!-- Skills Image -->
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" align="right">
+## Ko'nikmalar
 
 🚀 JavaScript | Node.js | React | TailWind | ReactQuery | GitLab
 🌐 MongoDB | Express | Redux | socket.io | GitHub | Linux | AWS
 
-## Projects
+## Loyihalar
 
-<!-- Projects Image -->
-<img src="https://media.giphy.com/media/l0MYC8YEtKp6Ki2pq/giphy.gif" width="300" align="right">
+🔭 Hozirgi paytlarda, qalay web saytlarini tuzish va ularga yangi qulayliklar keltirishda ishlash ustida yuruyman.
+🌱 Mikroservislarni va server emas texnologiyalarni o'rganayapman.
+💼 O'zimning so'nggi loyihalarimni GitHub repozitoriyalarimda ko'rishim mumkin!
 
-🔭 I'm currently working on enhancing my skills in building robust web applications.
-🌱 I'm learning more about microservices architecture and serverless technologies.
-💼 Check out some of my recent projects on my GitHub repositories!
+## Bog'lanish
 
-## Get in Touch
+📫 Menga elektron pochta orqali [email](mailto:akbarshoh.ilhomovich@example.com) yoki [LinkedIn](https://www.linkedin.com/in/akbarshoh-ilhomovich) orqali murojaat qilishingiz mumkin.
 
-<!-- Contact Image -->
-<img src="https://media.giphy.com/media/3ohryFF4sJWhfEaSQ0/giphy.gif" width="300" align="right">
+## Qiziqarli Ma'lumot
 
-📫 Feel free to reach out to me through [email](mailto:bloghack9@gmail.com) or [LinkedIn](https://www.linkedin.com/in/akbarshoh-ilhomovich).
+⚡ Qiziqarli fakt: Yangi texnologiyalarni o'rganishni va bo'sh vaqtlarimda futbol o'ynashni yaxshi ko'raman!
 
-## Fun Fact
-
-<!-- Fun Fact Image -->
-<img src="https://media.giphy.com/media/l4FGpaUgJrRduugje/giphy.gif" width="300" align="right">
-
-⚡ Fun fact: I love exploring new technologies and playing football in my free time!
-
-Let's connect and build amazing things together! 😊
+Aloqaga chiqib, hamkorlik qilishni va ajratmalar mavzusida so'zlashni istasangiz, menga yozib bering! 😊
