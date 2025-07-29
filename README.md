@@ -5,7 +5,7 @@
 <img src="https://th.bing.com/th/id/OIG1.xcA8sfagVZoq8_khdrXu?w=173&h=173&c=6&r=0&o=5&pid=ImgGn" alt="" />
 
 👨‍💻 I'm a passionate full stack developer at RealSoft, specializing in Node.js and React.
-🎓 I'm 18 years old and eager to learn and grow in the tech industry.
+🎓 I'm 19 years old and eager to learn and grow in the tech industry.
 
 ## Skills
 
