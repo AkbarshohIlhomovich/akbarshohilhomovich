@@ -14,6 +14,14 @@
 ![](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)
 ![](https://img.shields.io/badge/-Material_UI-007FFF?logo=mui&logoColor=fff)
 ![](https://img.shields.io/badge/-Ant_Design-0170FE?logo=ant-design&logoColor=fff)
+![](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff)
+![](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=fff)
+![](https://img.shields.io/badge/-Pinia-F6C915?logo=pinia&logoColor=000)
+![](https://img.shields.io/badge/-Vuex-35495E?logo=vue.js&logoColor=fff)
+![](https://img.shields.io/badge/-Vue_Router-35495E?logo=vue.js&logoColor=fff)
+![](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff)
+![](https://img.shields.io/badge/-i18n-26A69A?logo=google-translate&logoColor=fff)
+
 
 
 ![Git hub snake](https://raw.githubusercontent.com/theMir8/theMir8/9973dc63b67e2628603de8868cce7a069ff00873/github-contribution-grid-snake.svg)
