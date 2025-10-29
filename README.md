@@ -1,6 +1,6 @@
 ## Introduction
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C7F720&random=false&width=435&lines=Hi+%F0%9F%91%8B!;I+am+Akbarshoh+(Anvar))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C7F720&random=false&width=435&lines=Hi+%F0%9F%91%8B!;I+am+Akbarshoh+(akbar.webdev))](https://git.io/typing-svg)
 
 🚀 Frontend Languages and Tools:
 
