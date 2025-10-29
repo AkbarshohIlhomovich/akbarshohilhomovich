@@ -18,16 +18,16 @@
 
 ![Git hub snake](https://raw.githubusercontent.com/theMir8/theMir8/9973dc63b67e2628603de8868cce7a069ff00873/github-contribution-grid-snake.svg)
 
-![Git status](https://github-readme-stats.vercel.app/api?username=Akbarshoh15&count_private=true&show_icons=true&theme=radical)
+![Git status](https://github-readme-stats.vercel.app/api?username=AkbarshohIlhomovich&count_private=true&show_icons=true&theme=radical)
 
 ## Activity On GitHub
 
 <p align="center">
-  <a href="https://github.com/Akbarshoh15">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Akbarshoh15&theme=dark&hide_border=true&stroke=f53b3b"/>
+  <a href="https://github.com/AkbarshohIlhomovich">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AkbarshohIlhomovich&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Akbarshoh15&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AkbarshohIlhomovich&theme=radical&no-frame=false&no-bg=false&margin-w=4)
