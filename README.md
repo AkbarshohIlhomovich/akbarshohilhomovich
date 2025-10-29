@@ -21,6 +21,17 @@
 ![](https://img.shields.io/badge/-Vue_Router-35495E?logo=vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff)
 ![](https://img.shields.io/badge/-i18n-26A69A?logo=google-translate&logoColor=fff)
+![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)
+![](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=fff)
+![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+![](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
+![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+![](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=fff)
+![](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=fff)
+![](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=fff)
+![](https://img.shields.io/badge/-REST_API-FF6C37?logo=fastapi&logoColor=fff)
+
 
 
 
